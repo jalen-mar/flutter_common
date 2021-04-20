@@ -1,4 +1,4 @@
-import 'package:common/src/RegexUtil.dart';
+import 'package:fluter_common/src/RegexUtil.dart';
 
 import 'TipUtil.dart';
 
