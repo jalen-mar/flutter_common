@@ -1,4 +1,4 @@
-import 'package:fluter_common/src/Storage.dart';
+import 'package:flutter_common/src/Storage.dart';
 import 'package:get_it/get_it.dart';
 
 class CommonConfig {

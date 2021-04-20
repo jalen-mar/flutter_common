@@ -1,6 +1,6 @@
 import 'package:fluttertoast/fluttertoast.dart';
 
-import 'package:fluter_common/src/ObjectUtil.dart';
+import 'package:flutter_common/src/ObjectUtil.dart';
 
 class TipUtil {
   static void showToast(String msg, {backgroundColor, textColor}) {
