@@ -1,6 +1,13 @@
 import 'package:flutter_common/src/Storage.dart';
 import 'package:get_it/get_it.dart';
 
+export 'src/DateUtil.dart';
+export 'src/EncryptUtil.dart';
+export 'src/ObjectUtil.dart';
+export 'src/RegexUtil.dart';
+export 'src/Storage.dart';
+export 'src/TipUtil.dart';
+
 class CommonConfig {
   static Future<Null> init(Map data) async {
     var storage = await Storage.get();
